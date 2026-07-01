@@ -1,11 +1,11 @@
 
-### 🎯 CodeAlpha Artificial Intelligence Internship — Task 2: Chatbot for FAQs
+### CodeAlpha Artificial Intelligence Internship — Task 2: Chatbot for FAQs
 
 A production-grade, vector-backed automated assistant engineered to process natural language queries, evaluate user intent, and extract mathematically matched responses from an enterprise FAQ structure.
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 * **Language:** Python 3.x
 * **Core NLP Pipeline (`NLTK`):** Implements word tokenization, stopword cleaning, and structural lemmatization via `WordNetLemmatizer`.
 * **Vector Space Framework (`scikit-learn`):** Transforms text payloads into statistical matrices using `TfidfVectorizer`.
@@ -14,16 +14,14 @@ A production-grade, vector-backed automated assistant engineered to process natu
 
 ---
 
-## 🚀 Key Features Implemented
+## Key Features Implemented
 1. **Intelligent Fallback:** Automatically redirects to a secondary support matrix (`support@platform.com`) if the semantic match confidence falls below 20%.
 2. **Interactive FAQ Chips:** Clickable query triggers that allow users to instantly route predefined corporate edge-cases.
 3. **Session State Memory:** Persists conversation logs with real-time timestamps for a clean chronological interface.
 4. **Data Management:** Includes workspace utilities like complete terminal clearing (`🧹 Clear`) and historical chat logs downloading (`⬇ Export`).
 
 ---
-
-## 💻 Installation & Setup
-## 💻 Installation & Setup
+## Installation & Setup
 
 1. Clone the repository:
    ```bash

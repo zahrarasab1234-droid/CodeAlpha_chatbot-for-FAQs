@@ -1,4 +1,4 @@
-<img width="961" height="502" alt="image" src="https://github.com/user-attachments/assets/4b6c7c77-485a-42f6-88b4-2797481ebe1c" /># 🤖 Immersive 3D FAQ Portal — Pro Cyberpunk Edition
+
 ### 🎯 CodeAlpha Artificial Intelligence Internship — Task 2: Chatbot for FAQs
 
 A production-grade, vector-backed automated assistant engineered to process natural language queries, evaluate user intent, and extract mathematically matched responses from an enterprise FAQ structure.

@@ -1,4 +1,4 @@
-# 🤖 Immersive 3D FAQ Portal — Pro Cyberpunk Edition
+<img width="961" height="502" alt="image" src="https://github.com/user-attachments/assets/4b6c7c77-485a-42f6-88b4-2797481ebe1c" /># 🤖 Immersive 3D FAQ Portal — Pro Cyberpunk Edition
 ### 🎯 CodeAlpha Artificial Intelligence Internship — Task 2: Chatbot for FAQs
 
 A production-grade, vector-backed automated assistant engineered to process natural language queries, evaluate user intent, and extract mathematically matched responses from an enterprise FAQ structure.
@@ -23,8 +23,9 @@ A production-grade, vector-backed automated assistant engineered to process natu
 ---
 
 ## 💻 Installation & Setup
+## 💻 Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/zahrarasab1234-droid/CodeAlpha_chatbot-for-FAQs.git](https://github.com/zahrarasab1234-droid/CodeAlpha_chatbot-for-FAQs.git)
+   cd CodeAlpha_chatbot-for-FAQs
